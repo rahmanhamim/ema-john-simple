@@ -1,0 +1,19 @@
+.product {
+ display: flex;
+ border-bottom: 1px solid gray;
+ margin-right: 5px;
+ padding: 10px;
+}
+.product-name {
+ color: rgb(46, 142, 173);
+}
+.btn-regular {
+ background-color: #f0c14b;
+ padding: 5px 20px;
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
+}
+.icon-color {
+ color: gold;
+}
